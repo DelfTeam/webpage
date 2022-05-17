@@ -2,7 +2,7 @@
 
 <div align="left">
  <a href="https://github.com/delftam">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=delfteam&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=delfteam&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  </div>
 
   ### **Contact:** 💼
@@ -13,9 +13,13 @@
  <a href="https://delfteam.github.io/opaip"/>
 <img align="right" src="https://i.pinimg.com/originals/0d/f1/79/0df179f920ec3e360866037506e41397.gif" />
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delfteam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delfteam&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
 
  
  
- #### *Programming as hobby.* 🎩 <a href="https://github.com/tombsDevil">
- ![Snake animation](https://github.com/delfteam/opaip/blob/output/github-contribution-grid-snake.svg)
+ #### *Programming as hobby.* 🎩 <a href="https://github.com/delfteam">
+ 
+ <img align="left" src="https://i.pinimg.com/564x/73/5a/b1/735ab1e2dc56539076d3ab71253ad2ab.jpg"/>
+ 
+
+
