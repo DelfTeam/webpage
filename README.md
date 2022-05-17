@@ -13,5 +13,9 @@
  <a href="https://delfteam.github.io/opaip"/>
 <img align="right" src="https://i.pinimg.com/originals/0d/f1/79/0df179f920ec3e360866037506e41397.gif" />
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delfteam)](https://github.com/anuraghazra/github-readme-stats)
+
  
- ![Snake animation](https://github.com/tombsDevil/tombsDevil/blob/output/github-contribution-grid-snake.svg)
+ 
+ #### *Programming as hobby.* 🎩 <a href="https://github.com/tombsDevil">
+ ![Snake animation](https://github.com/delfteam/opaip/blob/output/github-contribution-grid-snake.svg)
