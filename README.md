@@ -10,5 +10,5 @@
 [![Discord](https://img.icons8.com/color/40/35/discord-logo.svg)]()
 [![telegram](https://img.icons8.com/color/40/35/telegram-app--v5.svg)](https://t.me/delfteam)
 [![twiter](https://img.icons8.com/office/40/35/twitter.svg)](https://twitter.com/twosordsman)
- <a href="https://github.com/tombsDevil"/>
+ <a href="https://i.pinimg.com/originals/01/eb/32/01eb328ea83daf3e12a523f470355f86.gif"/>
 <img align="right"  height="200" width="165" src="https://i.imgur.com/pP0APer.gif" />
