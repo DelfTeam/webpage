@@ -19,7 +19,7 @@
  
  #### *Programming as hobby.* 🎩 <a href="https://github.com/delfteam">
  
- <img align="left" src="https://i.pinimg.com/564x/73/5a/b1/735ab1e2dc56539076d3ab71253ad2ab.jpg"/>
+ <img align="left" src="https://i.pinimg.com/564x/2d/ca/83/2dca83680fdd4c424b3bccab0ac60c8d.jpg"/>
  
 
 
